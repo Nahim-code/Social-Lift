@@ -1,18 +1,16 @@
-# Nuxt Starter
+# SocialLift
 
-![Netlify + Nuxt Starter Preview](nuxt-starter-preview.jpg)
+![Netlify + Sociallift Starter Preview](Logo.png)
 
 ---
 
-Nuxt Starter is a minimal template designed for creating quick landing pages, built with Nuxt 3 and Tailwind CSS.
+Helping businesses grow on social media 🚀
 
-**View demo:** [https://demo-nuxt-starter.netlify.app/](https://demo-nuxt-starter.netlify.app/)
+## Start Now!
 
-## Deploy to Netlify
+Want to start immediately? DM “Growth” to start
 
-Want to deploy immediately? Click this button
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nuxt-starter)
+[![Start Now!](https://www.netlify.com/img/Start/button.svg)](https://www.tiktok.com/@sociallift7?is_from_webapp=1&sender_device=pc)
 
 Clicking this button will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
