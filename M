@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Social Lift | Marketing Agency</title>
+  <link href="https://fonts.googleapis.com/css?family=Inter:400,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>Social Lift</h1>
+      <p class="subtitle">Elevate your brand, grow your business.</p>
+    </div>
+  </header>
+
+  <main class="main-content container">
+    <section class="packages-grid">
+      <div class="package card starter">
+        <h2>Starter</h2>
+        <p class="desc">Grow your social media—start from small business. Includes 12 posts per month, caption writing, hashtag research, and basic account management.</p>
+        <ul>
+          <li>12 Posts/Month</li>
+          <li>Caption Writing</li>
+          <li>Hashtag Research</li>
+          <li>Basic Account Management</li>
+        </ul>
+      </div>
+      <div class="package card growth">
+        <h2>Growth</h2>
+        <p class="desc">Boost your business with consistent growth. Includes 20 posts per month, 4 short videos/reels, caption writing, hashtag strategy, a content calendar, and basic analytics reports.</p>
+        <ul>
+          <li>20 Posts/Month</li>
+          <li>4 Short Videos/Reels</li>
+          <li>Caption Writing</li>
+          <li>Hashtag Strategy</li>
+          <li>Content Calendar</li>
+          <li>Basic Analytics Reports</li>
+        </ul>
+      </div>
+      <div class="package card premium">
+        <h2>Premium</h2>
+        <p class="desc">Maximize your brand’s online presence. Includes premium content and strategy, 30 posts per month, 8 short videos/reels, advanced analytics, and personalized strategy sessions.</p>
+        <ul>
+          <li>30 Posts/Month</li>
+          <li>8 Short Videos/Reels</li>
+          <li>Premium Content & Strategy</li>
+          <li>Advanced Analytics</li>
+          <li>Personalized Strategy Sessions</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      &copy; 2026 Social Lift. All rights reserved.
+    </div>
+  </footer>
+</body>
+</html>
